@@ -95,4 +95,4 @@ With the power of Python and its various libraries, image processing possibiliti
 
 We welcome contributions from the community to improve the project and expand its scope. If you have any suggestions, ideas, or improvements, please feel free to raise an issue or submit a pull request!
 
-# Link to the original article: 
+# Link to the original article:
